@@ -76,8 +76,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayushpandey/ayushpandey/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/AyushPandey021/AyushPandey021/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 ---
 ⭐️ From [Ayush Pandey](https://github.com/ayushpandey021)
