@@ -14,7 +14,7 @@
 - 🌱 I’m learning **MERN Stack | AI/ML | JavaScript Advanced**  
 - 👯 I’m looking to collaborate on **Open Source & Cool Side Projects**  
 - 💬 Ask me about **React, Node.js, Express, MongoDB, and Frontend Magic ✨**  
-- 📫 Reach me at: **ayushpandey@example.com**  
+- 📫 Reach me at: **ayushpandey4480@gmail.com**  
 - ⚡ Fun fact: **I love solving problems & creating stunning UIs 🎨**
 
 ---
@@ -80,4 +80,5 @@
 </p>
 
 ---
-⭐️ From [Ayush Pandey](https://github.com/ayushpandey)
+⭐️ From [Ayush Pandey](https://github.com/ayushpandey021)
+
