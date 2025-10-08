@@ -45,7 +45,7 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|-----------|------|
-| **Imagify** | AI-powered image generator with credit system | MERN + OpenAI | [🔗 Repo](https://github.com/AyushPandey021/imagify) |
+| **KnowaLearn** | Full Learning Management System | MERN + OpenAI | [🔗 Repo](https://lms-testing-static-front.onrender.com/) |
 | **PicShow** | Platform to buy & sell images | MERN + Stripe | [🔗 Repo](https://github.com/AyushPandey021/picshow) |
 | **Video Call App** | Real-time video chat app | MERN + Stream API | [🔗 Repo](https://github.com/AyushPandey021/video-call-app) |
 | **Responsive Tester** | Chrome Extension to test screen sizes | HTML + CSS + JS | [🔗 Repo](https://github.com/AyushPandey021/responsive-tester) |
