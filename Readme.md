@@ -48,7 +48,7 @@
 | **KnowaLearn** | Full Learning Management System | MERN + OpenAI | [🔗 Repo](https://lms-testing-static-front.onrender.com/) |
 | **Personal Portfolio** | Personal Portfolio  | MERN + Stripe | [🔗 Repo](https://check-green-phi.vercel.app/) |
 | **Rezorpay - UI clone** | Real-time video chat app | MERN + Stream API | [🔗 Repo](https://rezorpay-clone-tailwind-css.vercel.app/) |
-| **Responsive Tester** | Chrome Extension to test screen sizes | HTML + CSS + JS | [🔗 Repo](https://github.com/AyushPandey021/responsive-tester) |
+| **Speaky** | Chrome Extension to test screen sizes | HTML + CSS + JS | [🔗 Repo](https://mern-chat-video-calling.onrender.com/) |
 
 ---
 
