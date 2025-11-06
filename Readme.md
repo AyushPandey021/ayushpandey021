@@ -38,9 +38,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,html,css,git,github,vscode,figma" />
 </p>
-
 ---
-
 ### 📂 Featured Projects  
 
 | Project | Description | Tech Stack | Link |
@@ -49,12 +47,4 @@
 | **Personal Portfolio** | Personal Portfolio  | MERN + Stripe | [🔗 Repo](https://check-green-phi.vercel.app/) |
 | **Rezorpay - UI clone** | Real-time video chat app | MERN + Stream API | [🔗 Repo](https://rezorpay-clone-tailwind-css.vercel.app/) |
 | **Speaky** | Chrome Extension to test screen sizes | HTML + CSS + JS | [🔗 Repo](https://mern-chat-video-calling.onrender.com/) |
-
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AyushPandey021/AyushPandey021/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-⭐️ From [Ayush Pandey](https://github.com/AyushPandey021)
