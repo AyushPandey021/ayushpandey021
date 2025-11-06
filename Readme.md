@@ -51,32 +51,6 @@
 | **Speaky** | Chrome Extension to test screen sizes | HTML + CSS + JS | [🔗 Repo](https://mern-chat-video-calling.onrender.com/) |
 
 ---
-
-### 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushPandey021&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush-pandey-05922a266" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ayushpandey4480@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyushPandey021&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/AyushPandey021/AyushPandey021/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
