@@ -36,7 +36,7 @@
 ### 🚀 My Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,html,css,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,html,css,git,github,vscode,figma,reactnative" />
 </p>
 ---
 ### 📂 Featured Projects  
