@@ -16,10 +16,20 @@
 
 ## 🧠 Developer DNA
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,mongodb,tailwind,ts,js,git,github&perline=9" />
+</p>
+
+---
+
+### 👨‍🚀 Digital Identity
+
 ```yaml
-Name: Ayush Pandey
-Role: Full Stack Developer
-Specialization: MERN + React Native + AI
-Focus: Scalable Products & Stunning UI
-Experience: Web + Mobile + AI Systems
-Mission: Build Tech That Feels Magical ✨
+👤 Name: Ayush Pandey
+🧑‍💻 Title: Full Stack Software Engineer
+📱 Mobile Specialist: React Native Cross-Platform Apps
+🌐 Web Stack: MERN Architecture
+🤖 AI Engineering: OpenAI Integrations & Intelligent Systems
+⚡ Performance Focus: Clean Code + Scalable Backend
+🎨 UI Craftsmanship: Modern, Fluid & Animated Interfaces
+🚀 Mission: Build Technology That Feels Alive
