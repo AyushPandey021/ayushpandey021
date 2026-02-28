@@ -34,6 +34,8 @@
 🎨 UI Craftsmanship: Modern, Fluid & Animated Interfaces
 🚀 Mission: Build Technology That Feels Alive
 
+```
+
 ## 🔥 Live Contribution Activity
 
 <p align="center">
