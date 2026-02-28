@@ -22,38 +22,51 @@
 
 ---
 
-### 👨‍🚀 Digital Identity
-
-```yaml
-👤 Name: Ayush Pandey
-🧑‍💻 Title: Full Stack Software Engineer
-📱 Mobile Specialist: React Native Cross-Platform Apps
-🌐 Web Stack: MERN Architecture
-🤖 AI Engineering: OpenAI Integrations & Intelligent Systems
-⚡ Performance Focus: Clean Code + Scalable Backend
-🎨 UI Craftsmanship: Modern, Fluid & Animated Interfaces
-🚀 Mission: Build Technology That Feels Alive
-
-```
-
-## 🔥 Live Contribution Activity
+## 🧬 Developer Identity Matrix
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushPandey021&theme=react-dark&hide_border=true&area=true&custom_title=Ayush%20Pandey%20Contribution%20Graph" width="100%"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Engineer-0f2027?style=for-the-badge&logo=code&logoColor=00F7FF" />
+  <img src="https://img.shields.io/badge/React%20Native%20Specialist-6A00F4?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20System%20Builder-203a43?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-## 🗓 3D Contribution Calendar
+### 🚀 Professional Snapshot
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/00F7FF/AyushPandey021" />
-</p>
+| Category | Details |
+|-----------|----------|
+| 👤 **Name** | Ayush Pandey |
+| 🧠 **Role** | Full Stack Software Engineer |
+| ⚛️ **Core Expertise** | MERN Stack + React Native |
+| 🤖 **AI Focus** | Intelligent Systems & OpenAI Integrations |
+| 📱 **Mobile Engineering** | High-Performance Cross-Platform Apps |
+| ⚡ **Backend Systems** | Scalable APIs, Authentication & Architecture |
+| 🎨 **UI Engineering** | Fluid Animations & Modern Design Systems |
+| 🌍 **Deployment Mindset** | Production-Ready & Cloud Optimized |
+| 🎯 **Mission** | Engineer immersive digital experiences |
 
 ---
 
-## 🐍 Contribution Snake Animation
+### 🌌 Engineering Vision
 
+> I design scalable systems, build interactive user experiences,  
+> and integrate AI into real-world applications to create products  
+> that are visually refined, technically strong, and performance-driven.
+
+---
+
+### 🔥 Core Engineering Pillars
+
+- 🧩 Modular Architecture  
+- ⚡ Performance Optimization  
+- 📦 Clean & Maintainable Code  
+- 🔐 Secure & Scalable Backend  
+- 🎨 UI Systems with Motion & Depth  
+- 🤖 AI-Augmented Applications  
+- 📱 Seamless Mobile Experience  
+
+---
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
