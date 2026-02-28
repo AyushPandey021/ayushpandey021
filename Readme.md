@@ -1,50 +1,25 @@
-<!-- Profile README for Ayush Pandey -->
-
-<h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
-<h3 align="center">🚀 MERN Stack Developer | AI/ML Enthusiast | Open Source Contributor</h3>
+<!-- ============================== -->
+<!-- 🚀 3D Animated GitHub Profile -->
+<!-- ============================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Engineer+in+Making;Open+Source+Contributor;Love+to+Build+Cool+Projects" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Ayush%20Pandey&fontSize=50&fontAlignY=40&fontColor=00F7FF&animation=fadeIn&desc=Full%20Stack%20Engineer%20%7C%20React%20Native%20%7C%20AI%20Builder&descAlignY=65&descAlign=50"/>
 </p>
 
 ---
 
-### 🔥 My Daily Streak & GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushPandey021&theme=radical" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushPandey021&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPandey021&layout=compact&theme=radical" height="165" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Ayush+Pandey;MERN+Stack+Developer;React+Native+App+Builder;AI+Engineer+in+Progress;Building+Next-Gen+Digital+Experiences+🚀" />
+</h1>
 
 ---
 
-### 🧑‍💻 About Me  
+## 🧠 Developer DNA
 
-- 🔭 I’m currently working on **AI-Powered Projects (Imagify, PicShow, Video Calling App)**  
-- 🌱 I’m learning **MERN Stack | AI/ML | JavaScript Advanced**  
-- 👯 I’m looking to collaborate on **Open Source & Cool Side Projects**  
-- 💬 Ask me about **React, Node.js, Express, MongoDB, and Frontend Magic ✨**  
-- 📫 Reach me at: **ayushpandey4480@gmail.com**  
-- ⚡ Fun fact: **I love solving problems & creating stunning UIs 🎨**
-
----
-
-### 🚀 My Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,html,css,git,github,vscode,figma,reactnative" />
-</p>
----
-### 📂 Featured Projects  
-
-| Project | Description | Tech Stack | Link |
-|--------|-------------|-----------|------|
-| **KnowaLearn** | Full Learning Management System | MERN + OpenAI | [🔗 Repo](https://lms-testing-static-front.onrender.com/) |
-| **Personal Portfolio** | Personal Portfolio  | MERN + Stripe | [🔗 Repo](https://check-green-phi.vercel.app/) |
-| **Rezorpay - UI clone** | Real-time video chat app | MERN + Stream API | [🔗 Repo](https://rezorpay-clone-tailwind-css.vercel.app/) |
-| **Speaky** | Chrome Extension to test screen sizes | HTML + CSS + JS | [🔗 Repo](https://mern-chat-video-calling.onrender.com/) |
----
+```yaml
+Name: Ayush Pandey
+Role: Full Stack Developer
+Specialization: MERN + React Native + AI
+Focus: Scalable Products & Stunning UI
+Experience: Web + Mobile + AI Systems
+Mission: Build Tech That Feels Magical ✨
