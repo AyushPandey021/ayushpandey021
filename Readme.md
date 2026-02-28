@@ -33,3 +33,25 @@
 ⚡ Performance Focus: Clean Code + Scalable Backend
 🎨 UI Craftsmanship: Modern, Fluid & Animated Interfaces
 🚀 Mission: Build Technology That Feels Alive
+
+## 🔥 Live Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushPandey021&theme=react-dark&hide_border=true&area=true&custom_title=Ayush%20Pandey%20Contribution%20Graph" width="100%"/>
+</p>
+
+---
+
+## 🗓 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00F7FF/AyushPandey021" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
