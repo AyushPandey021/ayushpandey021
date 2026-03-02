@@ -22,13 +22,7 @@
 
 ---
 
-## 🧬 Developer Identity Matrix
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Engineer-0f2027?style=for-the-badge&logo=code&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/React%20Native%20Specialist-6A00F4?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20System%20Builder-203a43?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
 
 ---
 
