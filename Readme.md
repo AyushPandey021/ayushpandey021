@@ -25,40 +25,75 @@
 
 
 ---
+<!-- ============================== -->
+<!-- PROFESSIONAL ENGINEERING PROFILE -->
+<!-- ============================== -->
 
-### 🚀 Professional Snapshot
-
-| Category | Details |
-|-----------|----------|
-| 👤 **Name** | Ayush Pandey |
-| 🧠 **Role** | Full Stack Software Engineer |
-| ⚛️ **Core Expertise** | MERN Stack + React Native |
-| 🤖 **AI Focus** | Intelligent Systems & OpenAI Integrations |
-| 📱 **Mobile Engineering** | High-Performance Cross-Platform Apps |
-| ⚡ **Backend Systems** | Scalable APIs, Authentication & Architecture |
-| 🎨 **UI Engineering** | Fluid Animations & Modern Design Systems |
-| 🌍 **Deployment Mindset** | Production-Ready & Cloud Optimized |
-| 🎯 **Mission** | Engineer immersive digital experiences |
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0f2027,100:2c5364&text=Ayush%20Pandey&font=Orbitron&fontSize=48&fontColor=E6F1FF&animation=fadeIn&desc=Full%20Stack%20Engineer%20%7C%20React%20Native%20%7C%20AI%20Systems&descAlignY=70"/>
+</p>
 
 ---
 
-### 🌌 Engineering Vision
+<h2 align="center" style="font-family: Orbitron; letter-spacing: 1px;">
+Engineering Profile
+</h2>
 
-> I design scalable systems, build interactive user experiences,  
-> and integrate AI into real-world applications to create products  
-> that are visually refined, technically strong, and performance-driven.
+<table align="center">
+<tr><td>
+
+<table>
+<tr><td><strong>Identity</strong></td><td>Ayush Pandey</td></tr>
+<tr><td><strong>Discipline</strong></td><td>Full Stack Software Engineering</td></tr>
+<tr><td><strong>Primary Stack</strong></td><td>MERN Architecture · React Native</td></tr>
+<tr><td><strong>AI Integration</strong></td><td>Intelligent Systems · OpenAI APIs · Automation</td></tr>
+<tr><td><strong>Mobile Engineering</strong></td><td>Cross-Platform Systems with Performance Focus</td></tr>
+<tr><td><strong>Backend Systems</strong></td><td>Scalable APIs · Auth Systems · Distributed Thinking</td></tr>
+<tr><td><strong>UI Engineering</strong></td><td>Motion Systems · Interaction Design · Visual Depth</td></tr>
+<tr><td><strong>Deployment Strategy</strong></td><td>Cloud-Oriented · Production-Grade Delivery</td></tr>
+<tr><td><strong>Objective</strong></td><td>Building refined, scalable and intelligent digital systems</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ---
 
-### 🔥 Core Engineering Pillars
+<h2 align="center" style="font-family: Orbitron;">
+Engineering Vision
+</h2>
 
-- 🧩 Modular Architecture  
-- ⚡ Performance Optimization  
-- 📦 Clean & Maintainable Code  
-- 🔐 Secure & Scalable Backend  
-- 🎨 UI Systems with Motion & Depth  
-- 🤖 AI-Augmented Applications  
-- 📱 Seamless Mobile Experience  
+<p align="center" style="max-width:700px; line-height:1.8; color:#c9d1d9;">
+I focus on designing scalable architectures, developing high-performance user interfaces,
+and integrating intelligent systems into real-world applications. My approach combines
+strong engineering fundamentals with modern design principles to deliver products that are
+technically robust, visually refined, and built for scale.
+</p>
+
+---
+
+<h2 align="center" style="font-family: Orbitron;">
+Core Engineering Principles
+</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,mongodb,ts,js,git&perline=7" />
+</p>
+
+<table align="center">
+<tr><td>
+
+- Modular and scalable architecture  
+- Performance-first engineering approach  
+- Maintainable and clean code practices  
+- Secure backend and authentication design  
+- Advanced UI systems with motion and depth  
+- AI-integrated application development  
+- Seamless and optimized mobile experience  
+
+</td></tr>
+</table>
+
 
 ---
 <p align="center">
