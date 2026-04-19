@@ -65,7 +65,7 @@
 
 <div align="center">
 
-<a href="https://github.com/ayushpandey">
+<a href="https://github.com/ayushpandey021">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushpandey&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&ring_color=00F7FF&include_all_commits=true&count_private=true&border_radius=12"/>
   &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpandey&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&border_radius=12&langs_count=8"/>
@@ -194,7 +194,7 @@ const developer = {
 
 <div align="center">
 
-[![Ayush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushpandey&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&hide_border=true&radius=12&custom_title=Ayush's%20Contribution%20Graph)](https://github.com/ayushpandey021)
+[![Ayush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushpandey021&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&hide_border=true&radius=12&custom_title=Ayush's%20Contribution%20Graph)](https://github.com/ayushpandey021)
 
 </div>
 
