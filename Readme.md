@@ -194,7 +194,7 @@ const developer = {
 
 <div align="center">
 
-[![Ayush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushpandey&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&hide_border=true&radius=12&custom_title=Ayush's%20Contribution%20Graph)](https://github.com/ayushpandey)
+[![Ayush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushpandey&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&hide_border=true&radius=12&custom_title=Ayush's%20Contribution%20Graph)](https://github.com/ayushpandey021)
 
 </div>
 
@@ -204,7 +204,7 @@ const developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayushpandey&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/ayushpandey)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayushpandey021&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/ayushpandey021)
 
 </div>
 
@@ -236,11 +236,11 @@ const developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Pandey-00F7FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/ayushpandey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Pandey-00F7FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/ayushpandey021)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-@ayushpandey-00F7FF?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://twitter.com/ayushpandey)
+[![Twitter](https://img.shields.io/badge/Twitter-@ayushpandey-00F7FF?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://twitter.com/ayushpandey021)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-ayushpandey.dev-00F7FF?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117)](https://ayushpandey.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ayushpandey021.dev-00F7FF?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117)](https://ayushpandey021.dev)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-00F7FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ayush@example.com)
 
@@ -248,8 +248,8 @@ const developer = {
 
 <!-- Snake Contribution Grid -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushpandey/ayushpandey/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushpandey/ayushpandey/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushpandey/ayushpandey021/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushpandey021/ayushpandey021/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
